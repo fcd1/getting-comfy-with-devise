@@ -19,3 +19,6 @@
 # Ignore editor files
 *~
 \#*\#
+
+# Ignore config file with sensitive information
+database.yml
